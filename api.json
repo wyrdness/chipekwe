@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/chipekwe",
     "maintainers": [
       {
@@ -18,712 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "chipekwe",
     "name": "Chipekwe",
-    "aliases": [
-      {
-        "name": "Chipekwe",
-        "language": "Lozi/Kaonde",
-        "region": "Zambia/Congo",
-        "meaning": "water rhinoceros"
-      },
-      {
-        "name": "Mokele-mbembe's cousin",
-        "region": "Congo Basin",
-        "meaning": "Related aquatic cryptid"
-      },
-      {
-        "name": "Irizima",
-        "language": "Barotse",
-        "region": "Zambia"
-      },
-      {
-        "name": "Mvubu wa Zamani",
-        "language": "Swahili",
-        "region": "Central Africa",
-        "meaning": "ancient hippo"
-      }
-    ],
-    "category": "CRYPTID",
-    "subcategory": "Aquatic",
+    "aliases": [],
+    "category": "OF_DANGEROUS_SWAMP_DWELLERS_THAT_INCLUDES_MOKELE-MBEMBE_AND_OTHER_CRYPTIDS.",
+    "subcategory": "| Description | Status |",
     "tags": [
-      "aquatic",
-      "rhinoceros-like",
-      "swamp-dwelling",
-      "africa",
-      "prehistoric",
-      "large-creature",
-      "quadrupedal"
+      "folklore",
+      "mythology"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "A large, rhinoceros-like aquatic creature reported in the swamps and rivers of Zambia and the Democratic Republic of Congo. Described as hippo-sized with a single horn, smooth skin, and aggressive territorial behavior.",
-      "full": "The Chipekwe is a cryptid reported by indigenous communities in Zambia and the Democratic Republic of Congo for centuries. Described as a large aquatic creature resembling a rhinoceros with a single horn, smooth or lightly haired skin, and aggressive behavior toward boats and humans entering its territory. Unlike the more famous Mokele-mbembe, which is often described as sauropod-like, the Chipekwe is consistently described as rhinoceros-like in appearance and behavior. Local traditions hold deep respect for these creatures, viewing them as dangerous but important spiritual guardians of waterways. Reports persist into modern times, with sightings continuing in remote swamp regions of the Congo Basin and Zambezi River system."
+      "summary": "The Chipekwe is a large, rhinoceros-like aquatic cryptid reported in the swamps and rivers of Zambia and the Democratic Republic of Congo.",
+      "full": "The Chipekwe is a large, rhinoceros-like aquatic cryptid reported in the swamps and rivers of Zambia and the Democratic Republic of Congo. Described as hippo-sized with a single prominent horn, smooth skin, and aggressive territorial behavior, the Chipekwe has been part of Central African oral traditions for centuries. Unlike the more famous Mokele-mbembe, which is often described as dinosaur-like and elongated, the Chipekwe is consistently portrayed as a robust, horned creature resembling a water rhinoceros. Indigenous communities view it with deep respect and fear, considering it a dangerous guardian of sacred waterways. The creature's description—a large aquatic mammal with a single horn—has led to speculation about surviving prehistoric mammals such as Arsinoitherium or unknown rhinoceros species adapted to aquatic life. Skeptics suggest the reports arise from aggressive hippopotamus encounters or cultural memories of extinct megafauna. With approximately 150 documented accounts spanning from pre-colonial times to the present, the Chipekwe represents an important aspect of Central African traditional knowledge and cryptozoological investigation."
     },
     "etymology": {
-      "origin": "Derived from Kaonde and Lozi languages of Zambia, combining terms for water and rhinoceros or large horned beast",
-      "meaning": "Water rhinoceros or swamp beast with horn",
-      "first_use": "Pre-colonial oral traditions, first Western documentation circa 1900s"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "CRYPTID",
-      "type": "Aquatic",
-      "subtype": "Mammalian",
-      "variant": "Central African"
+      "category": "OF_DANGEROUS_SWAMP_DWELLERS_THAT_INCLUDES_MOKELE-MBEMBE_AND_OTHER_CRYPTIDS.",
+      "type": "| Description | Status |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "mokele-mbembe",
-        "name": "Mokele-mbembe",
-        "relationship": "related",
-        "description": "Congo Basin sauropod-like cryptid, shares habitat but distinct morphology"
-      },
-      {
-        "id": "emela-ntouka",
-        "name": "Emela-ntouka",
-        "relationship": "similar",
-        "description": "Another horned Congo cryptid, more ceratopsian-like"
-      },
-      {
-        "id": "kongamato",
-        "name": "Kongamato",
-        "relationship": "regional_cohabitant",
-        "description": "Flying cryptid of same region"
-      },
-      {
-        "id": "nandi-bear",
-        "name": "Nandi Bear",
-        "relationship": "regional",
-        "description": "East African cryptid, different habitat"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "length": {
-        "min": 4.0,
-        "max": 6.0,
-        "unit": "meters",
-        "confidence": "low"
-      },
-      "weight": {
-        "min": 1500,
-        "max": 3000,
-        "unit": "kilograms",
-        "confidence": "low"
-      },
-      "coloration": [
-        "dark gray",
-        "brownish-gray",
-        "muddy brown",
-        "slate gray"
-      ],
-      "features": [
-        {
-          "feature": "Single horn",
-          "description": "Large ivory or bone horn on snout, similar to rhinoceros",
-          "frequency": "always"
-        },
-        {
-          "feature": "Smooth skin",
-          "description": "Thick, smooth or slightly wrinkled skin, no scales or heavy armor",
-          "frequency": "common"
-        },
-        {
-          "feature": "Broad head",
-          "description": "Wide, blunt head similar to hippopotamus",
-          "frequency": "common"
-        },
-        {
-          "feature": "Short legs",
-          "description": "Thick, powerful legs adapted for aquatic life",
-          "frequency": "common"
-        },
-        {
-          "feature": "Small ears",
-          "description": "Small ears positioned high on head",
-          "frequency": "occasional"
-        },
-        {
-          "feature": "Powerful tail",
-          "description": "Thick, muscular tail used for swimming",
-          "frequency": "common"
-        }
-      ],
-      "morphology": "Quadrupedal, robust build similar to hippopotamus or rhinoceros. Aquatic adaptations including high-set eyes and nostrils. Horn positioned on snout as primary distinguishing feature from hippopotamus."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Aggressive territorial defense",
-        "description": "Attacks boats and canoes that enter its territory",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Capsizing boats",
-        "description": "Uses horn and bulk to overturn small watercraft",
-        "frequency": "occasional",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Extended submersion",
-        "description": "Can remain underwater for extended periods",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Deep water navigation",
-        "description": "Inhabits deep pools and river channels",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Nocturnal activity",
-        "description": "Most active at night and dawn/dusk",
-        "frequency": "common",
-        "evidence_level": "reported"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "crepuscular/nocturnal",
-      "disposition": "aggressive",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "deep swamps",
-        "river pools",
-        "flooded forests",
-        "papyrus marshes"
-      ],
-      "diet": "Herbivorous (aquatic vegetation)",
-      "patterns": [
-        "Highly territorial",
-        "Avoids human settlements",
-        "Marks territory with vocalizations",
-        "Defends water sources aggressively"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Primarily reported in Zambia's Bangweulu Swamps and Congo Basin wetlands. Reports concentrated in remote swamp systems and river networks of Central Africa.",
-      "continents": ["Africa"],
-      "countries": ["Zambia", "Democratic Republic of Congo", "Angola (northern)"],
-      "regions": [
-        "Bangweulu Swamps",
-        "Likouala Region",
-        "Zambezi River Basin",
-        "Lake Bangweulu area",
-        "Congo River tributaries"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Bangweulu Swamps",
-        "location": {
-          "description": "Vast wetland system in northern Zambia",
-          "country": "Zambia",
-          "region": "Northern Province",
-          "coordinates": {
-            "latitude": -11.0,
-            "longitude": 30.0
-          }
-        },
-        "sighting_count": 50,
-        "peak_period": "Pre-colonial to present",
-        "notes": "Primary traditional habitat, numerous indigenous accounts"
-      },
-      {
-        "name": "Likouala Region",
-        "location": {
-          "description": "Remote swampland in northern Congo",
-          "country": "Democratic Republic of Congo",
-          "region": "Likouala Department",
-          "coordinates": {
-            "latitude": 1.5,
-            "longitude": 18.0
-          }
-        },
-        "sighting_count": 30,
-        "peak_period": "1900s-present",
-        "notes": "Shared habitat with Mokele-mbembe reports"
-      },
-      {
-        "name": "Lake Bangweulu",
-        "location": {
-          "description": "Large seasonal lake system",
-          "country": "Zambia",
-          "region": "Luapula Province",
-          "coordinates": {
-            "latitude": -11.25,
-            "longitude": 29.75
-          }
-        },
-        "sighting_count": 25,
-        "peak_period": "1800s-present",
-        "notes": "Historical center of Chipekwe traditions"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-colonial",
+        "date": "Unknown",
         "circa": true,
-        "source": "Indigenous oral traditions of Lozi, Kaonde, and Bemba peoples"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "Pre-1950",
-          "description": "Strong oral tradition and regular reports before extensive human development"
-        },
-        {
-          "period": "1980-2010",
-          "description": "Renewed interest from cryptozoological expeditions"
-        }
-      ],
-      "seasonal_patterns": "Reports increase during dry season when water levels drop and creatures concentrate in remaining pools"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "The Chipekwe is deeply embedded in the oral traditions of Central African peoples, particularly the Lozi, Kaonde, and Bemba of Zambia. These traditions describe dangerous water spirits or creatures that guard sacred pools and rivers. The creature is treated with respect and fear, with specific taboos about entering certain waterways.",
-      "earliest_accounts": "Indigenous accounts span centuries, passed through oral tradition. First European documentation appears in early 1900s colonial reports and missionary accounts.",
-      "folklore_connections": "Connected to broader African traditions of water guardians and dangerous aquatic creatures. Similar to water spirit traditions across sub-Saharan Africa."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Pre-1800",
-        "event": "Oral tradition establishment",
-        "significance": "Chipekwe becomes established in Zambian and Congolese folklore",
-        "source": "Oral traditions"
-      },
-      {
-        "date": "1900-1920",
-        "event": "First European documentation",
-        "significance": "Colonial administrators and missionaries record indigenous accounts",
-        "source": "Colonial reports"
-      },
-      {
-        "date": "1932",
-        "event": "Frank Melland documentation",
-        "significance": "British administrator documents Kaonde traditions of Chipekwe in detail",
-        "source": "Melland, F. (1932). In Witch-Bound Africa"
-      },
-      {
-        "date": "1959",
-        "event": "J.P.F. Brown report",
-        "significance": "Game ranger reports hippo-like creature with horn in Bangweulu",
-        "source": "Brown's field notes"
-      },
-      {
-        "date": "1981",
-        "event": "Roy Mackal expedition",
-        "significance": "Cryptozoologist investigates Congo Basin creatures including Chipekwe",
-        "source": "Mackal expeditions"
-      },
-      {
-        "date": "1992",
-        "event": "William Gibbons investigation",
-        "significance": "Researcher collects contemporary eyewitness accounts in Zambia",
-        "source": "Gibbons field reports"
-      },
-      {
-        "date": "2000s-present",
-        "event": "Ongoing indigenous reports",
-        "significance": "Local communities continue to report encounters in remote swamps",
-        "source": "Contemporary field interviews"
-      }
-    ],
-    "modern_era": "Contemporary research on Chipekwe has been limited by the remote, dangerous nature of its purported habitat. Most modern investigation relies on interviewing indigenous communities and analyzing historical accounts. The creature remains an important part of local cultural knowledge, with ongoing reports from fishermen and swamp dwellers."
+    "timeline": []
   },
-
   "sightings": {
     "statistics": {
-      "total_documented": 150,
+      "total_documented": 0,
       "verified": 0,
-      "disputed": 130,
-      "debunked": 20,
-      "date_range": {
-        "earliest": "Pre-colonial",
-        "latest": "2023"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable": [
-      {
-        "id": "chipekwe-sighting-1932-melland",
-        "name": "Frank Melland Documentation",
-        "date": {
-          "value": "1932",
-          "precision": "year"
-        },
-        "location": {
-          "description": "Lake Bangweulu region",
-          "country": "Zambia",
-          "region": "Luapula Province",
-          "coordinates": {
-            "latitude": -11.0,
-            "longitude": 30.0,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 50,
-          "types": ["Indigenous informants", "Colonial administrator"],
-          "credibility_factors": ["Multiple independent accounts", "Consistent descriptions", "Traditional knowledge"]
-        },
-        "description": "British administrator Frank Melland documented extensive Kaonde traditions about the Chipekwe, describing it as a large aquatic creature with a single horn that attacks canoes. Multiple informants provided consistent descriptions of encounters near Lake Bangweulu, describing aggressive territorial behavior and horn-based attacks on boats.",
-        "conditions": {
-          "weather": "Various",
-          "visibility": "Various",
-          "time_of_day": "Multiple encounters",
-          "duration": "Multi-year documentation project"
-        },
-        "evidence": [
-          "Written documentation",
-          "Multiple witness accounts",
-          "Traditional knowledge systems",
-          "Boat damage reports"
-        ],
-        "credibility": {
-          "rating": "medium",
-          "factors": [
-            "Multiple independent witnesses",
-            "Consistent traditional knowledge",
-            "Detailed documentation",
-            "Cultural significance supports authenticity",
-            "No physical evidence"
-          ],
-          "notes": "Most comprehensive early documentation of Chipekwe traditions from credible colonial administrator"
-        },
-        "sources": [
-          "Melland, F. (1932). In Witch-Bound Africa",
-          "Colonial administrative records"
-        ],
-        "featured": true
-      },
-      {
-        "id": "chipekwe-sighting-1959-brown",
-        "name": "J.P.F. Brown Game Ranger Report",
-        "date": {
-          "value": "1959",
-          "precision": "year"
-        },
-        "location": {
-          "description": "Bangweulu Swamps",
-          "country": "Zambia",
-          "region": "Northern Province",
-          "coordinates": {
-            "latitude": -11.0,
-            "longitude": 30.0,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 1,
-          "types": ["Game ranger"],
-          "credibility_factors": ["Professional wildlife observer", "Familiar with local fauna"]
-        },
-        "description": "Game ranger J.P.F. Brown reported observing a large creature in the Bangweulu Swamps that resembled a hippopotamus but possessed a single horn on its snout. The creature was observed at distance but showed behavior distinct from known hippos, including more aggressive territorial displays.",
-        "conditions": {
-          "weather": "Clear",
-          "visibility": "Good",
-          "time_of_day": "Afternoon",
-          "duration": "Several minutes"
-        },
-        "evidence": [
-          "Professional field report",
-          "Detailed written description"
-        ],
-        "credibility": {
-          "rating": "medium",
-          "factors": [
-            "Professional wildlife observer",
-            "Detailed observation",
-            "Familiar with local fauna",
-            "Single witness",
-            "Distance observation"
-          ],
-          "notes": "Credible observer familiar with African megafauna"
-        },
-        "sources": [
-          "Brown field reports (1959)",
-          "Zambian Wildlife Authority archives"
-        ],
-        "featured": true
-      },
-      {
-        "id": "chipekwe-sighting-1992-fishermen",
-        "name": "Lake Bangweulu Fishermen Encounter",
-        "date": {
-          "value": "1992",
-          "precision": "year"
-        },
-        "location": {
-          "description": "Lake Bangweulu fishing grounds",
-          "country": "Zambia",
-          "region": "Luapula Province",
-          "coordinates": {
-            "latitude": -11.3,
-            "longitude": 29.8,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 3,
-          "types": ["Local fishermen"],
-          "credibility_factors": ["Experienced water workers", "Familiar with local wildlife"]
-        },
-        "description": "Three fishermen reported their canoe was attacked by a large creature they identified as Chipekwe. The creature surfaced near their boat, displayed a horn-like protrusion, and attempted to overturn the canoe before they reached shallow water. They described it as larger than a hippo with different behavior patterns.",
-        "conditions": {
-          "weather": "Overcast",
-          "visibility": "Moderate",
-          "time_of_day": "Early morning",
-          "duration": "5-10 minutes"
-        },
-        "evidence": [
-          "Witness testimony",
-          "Boat damage",
-          "Multiple witnesses"
-        ],
-        "credibility": {
-          "rating": "low-medium",
-          "factors": [
-            "Multiple witnesses",
-            "Physical boat damage",
-            "Consistent with traditional accounts",
-            "Could be aggressive hippo misidentification",
-            "No photographic evidence"
-          ],
-          "notes": "Typical modern encounter report; difficult to distinguish from aggressive hippo"
-        },
-        "sources": [
-          "Gibbons, W. field interviews (1992)",
-          "Local witness statements"
-        ],
-        "featured": false
-      }
-    ],
+    "notable": [],
     "database_path": "./sightings/"
   },
-
   "evidence": {
-    "physical": [
-      {
-        "id": "chipekwe-evidence-boat-damage",
-        "type": "structural damage",
-        "name": "Damaged canoes",
-        "date": "Various",
-        "description": "Multiple reports of canoes damaged by horn-like punctures in areas where Chipekwe is reported",
-        "location": "Bangweulu Swamps, various locations",
-        "status": "disputed",
-        "analysis": "Could be caused by hippo tusks, crocodiles, or submerged wood. Difficult to conclusively attribute.",
-        "source": "Local reports, field investigators"
-      },
-      {
-        "id": "chipekwe-evidence-tracks",
-        "type": "footprints",
-        "name": "Unusual tracks",
-        "date": "Various",
-        "description": "Reports of large, three-toed tracks near swamp edges, distinct from hippo",
-        "status": "disputed",
-        "analysis": "Most likely hippo or elephant tracks in mud. No casts or photos verified.",
-        "source": "Anecdotal reports"
-      }
-    ],
+    "physical": [],
     "photographic": [],
     "video": [],
-    "audio": [
-      {
-        "id": "chipekwe-evidence-roars",
-        "type": "audio recording",
-        "name": "Unidentified roaring",
-        "date": "2000s",
-        "description": "Deep roaring sounds recorded in Bangweulu not matching known hippo or crocodile vocalizations",
-        "status": "disputed",
-        "analysis": "Limited quality recordings, could be distorted hippo calls or other known animals",
-        "source": "Amateur cryptozoologists"
-      }
-    ],
+    "audio": [],
     "trace": []
   },
-
   "theories": {
-    "paranormal": [
-      {
-        "name": "Water Spirit",
-        "description": "Traditional belief that Chipekwe is a spiritual guardian of sacred waters rather than physical animal",
-        "proponents": ["Traditional Lozi and Kaonde belief systems"],
-        "evidence_cited": ["Spiritual significance in indigenous cultures", "Taboos around certain waterways"]
-      }
-    ],
-    "scientific": [
-      {
-        "name": "Surviving Arsinoitherium",
-        "description": "Chipekwe could be a surviving population of Arsinoitherium or related Paleogene mammal with horns",
-        "proponents": ["Bernard Heuvelmans", "Roy Mackal"],
-        "evidence_cited": ["Horn morphology", "Aquatic habitat", "Geographic range matches fossil sites"]
-      },
-      {
-        "name": "Unknown Rhinoceros Species",
-        "description": "An undiscovered or thought-extinct aquatic rhinoceros adapted to swamp life",
-        "proponents": ["Some cryptozoologists"],
-        "evidence_cited": ["Rhinoceros-like description", "Horn structure", "Similar ecology to extinct Metamynodon"]
-      },
-      {
-        "name": "Surviving Ceratopsian",
-        "description": "Possible surviving lineage of horned dinosaur adapted to aquatic life",
-        "proponents": ["Fringe cryptozoologists"],
-        "evidence_cited": ["Horn structure", "Large size", "Aquatic behavior"]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Aggressive Hippopotamus",
-        "description": "Sightings are aggressive hippos, possibly with damaged tusks creating horn-like appearance",
-        "proponents": ["Mainstream zoologists"],
-        "evidence_cited": ["Hippos are common and aggressive", "Size matches", "Behavior matches territorial hippos"]
-      },
-      {
-        "name": "Cultural Memory",
-        "description": "Tradition based on cultural memory of extinct megafauna or exaggerated hippo encounters",
-        "proponents": ["Anthropologists"],
-        "evidence_cited": ["No physical evidence", "Traditional knowledge can preserve memories", "Hippos are dangerous"]
-      },
-      {
-        "name": "Misidentification Complex",
-        "description": "Combination of hippo, crocodile, and boat accident misinterpretations creating consistent legend",
-        "proponents": ["Skeptical researchers"],
-        "evidence_cited": ["Dangerous waters with multiple threats", "Human pattern-seeking", "No verified evidence"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Lozi water guardian traditions",
-        "Kaonde dangerous creature legends",
-        "Bemba swamp spirit stories"
-      ],
-      "stories": [
-        "The Chipekwe that guards the sacred pool of Itimpi",
-        "Hunters who angered the Chipekwe and lost their lives",
-        "The fisherman who respected the Chipekwe's territory and was spared"
-      ],
-      "beliefs": "The Chipekwe is viewed with deep respect and fear in local traditions. It is considered a guardian of sacred waterways and an omen. Certain pools are avoided due to Chipekwe presence. Harming or disrespecting the creature is believed to bring misfortune."
-    },
-    "indigenous": {
-      "cultures": [
-        "Lozi",
-        "Kaonde",
-        "Bemba",
-        "Ila",
-        "Tonga"
-      ],
-      "significance": "Integral to traditional ecological knowledge and spiritual beliefs about water systems. Represents the power and danger of untamed nature. Teaching tool for water safety and respect for sacred places.",
-      "sensitivity_note": "Chipekwe traditions are sacred knowledge systems, not mere folklore. These beliefs continue to guide behavior and resource management in local communities. Researchers must approach with cultural humility and respect.",
-      "respect_guidelines": "Always obtain permission from traditional authorities before investigating. Do not dismiss indigenous knowledge as 'primitive superstition.' Understand spiritual and practical dimensions of traditional beliefs. Compensate informants appropriately. Share findings with communities."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Heuvelmans, B. (1955). On the Track of Unknown Animals",
-        "Mackal, R. (1987). A Living Dinosaur?",
-        "Gibbons, W. (2010). Mokele-Mbembe: Mystery Beast of the Congo Basin"
-      ],
-      "film_tv": [
-        "Various cryptozoology documentaries mentioning Congo Basin cryptids",
-        "Monster Quest episodes on African cryptids"
-      ],
+      "literature": [],
+      "film_tv": [],
       "games": [],
-      "other": [
-        "Limited Western popular culture presence",
-        "Primarily known within cryptozoology community",
-        "Overshadowed by Mokele-mbembe in popular imagination"
-      ]
+      "other": []
     }
   },
-
   "research": {
-    "researchers": [
-      {
-        "name": "Frank Melland",
-        "affiliation": "British Colonial Service",
-        "contribution": "First comprehensive Western documentation of Chipekwe traditions (1932)",
-        "period": "1920s-1930s"
-      },
-      {
-        "name": "Bernard Heuvelmans",
-        "affiliation": "Cryptozoology founder",
-        "contribution": "Analyzed reports and proposed surviving prehistoric mammal theory",
-        "period": "1950s-1980s"
-      },
-      {
-        "name": "Roy Mackal",
-        "affiliation": "University of Chicago",
-        "contribution": "Led expeditions to investigate Congo Basin cryptids including Chipekwe",
-        "period": "1980s-1990s"
-      },
-      {
-        "name": "William Gibbons",
-        "affiliation": "Independent researcher",
-        "contribution": "Field investigations in Zambia, collected contemporary witness accounts",
-        "period": "1990s-2010s"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Centre for Fortean Zoology",
-        "url": "https://www.cfz.org.uk",
-        "focus": "Global cryptid research including African cryptids"
-      },
-      {
-        "name": "International Society of Cryptozoology (defunct)",
-        "url": null,
-        "focus": "Historical research organization that investigated Chipekwe"
-      }
-    ],
-    "ongoing_studies": "Limited active research due to remote habitat and political instability in region. Most contemporary investigation involves interviewing local communities and analyzing historical accounts. Environmental DNA sampling in Bangweulu Swamps could provide future evidence."
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "melland-1932",
-      "type": "book",
-      "title": "In Witch-Bound Africa",
-      "authors": ["Frank Melland"],
-      "publication": "Seeley, Service & Co.",
-      "date": "1932"
-    },
-    {
-      "id": "heuvelmans-1955",
-      "type": "book",
-      "title": "On the Track of Unknown Animals",
-      "authors": ["Bernard Heuvelmans"],
-      "publication": "Hill and Wang",
-      "date": "1955"
-    },
-    {
-      "id": "mackal-1987",
-      "type": "book",
-      "title": "A Living Dinosaur? In Search of Mokele-Mbembe",
-      "authors": ["Roy Mackal"],
-      "publication": "E.J. Brill",
-      "date": "1987",
-      "isbn": "978-9004085435"
-    },
-    {
-      "id": "gibbons-2010",
-      "type": "book",
-      "title": "Mokele-Mbembe: Mystery Beast of the Congo Basin",
-      "authors": ["William Gibbons"],
-      "publication": "Coachwhip Publications",
-      "date": "2010"
-    }
-  ]
+  "sources": []
 }
